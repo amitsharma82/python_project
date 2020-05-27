@@ -1,7 +1,6 @@
 import math
 import os
-import sys
-from os import rename
+
 
 print(sys.version)
 print(sys.executable)
