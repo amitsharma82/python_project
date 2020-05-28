@@ -3,3 +3,5 @@ print("Goodbye!!!")
 
 print(43 + 1)
 print(4/3)
+
+print(4/4)
