@@ -8,7 +8,6 @@ while y == 0:  # make sure y isn't zero              #|   /
     y = randint(-100, 100)  # |  /
 # NO TOUCHING==NO TOUCHING==NO TOUCHING==NO TOUCHING #| /
 
-
 # Don't change the print statements so the tests can pass!
 # YOUR CODE GOES HERE vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 if x < 0 and y < 0:
